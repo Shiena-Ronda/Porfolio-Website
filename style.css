@@ -376,6 +376,10 @@ body{
 
 
 @media (max-width: 720px){
+    .logo-and-text{
+        margin-left: 15px;
+    }
+
     .main__image{
         width: 300px;
         height: 315px;
@@ -400,6 +404,10 @@ body{
 
 
 @media (max-width: 425px){
+    /* .logo-and-text{
+        margin-left: 20px;
+    } */
+    
     .main__image{
         width: 280px;
         height: 295px;
@@ -427,6 +435,10 @@ body{
 
 
 @media (max-width: 375px){
+    .logo-and-text{
+        margin-left: 10px;
+    } 
+
     .main__image{
         width: 270px;
         height: 285px;
@@ -449,6 +461,10 @@ body{
 }
 
 @media (max-width: 320px){
+    .logo-and-text{
+        margin-left: 0px;
+    } 
+
     .main__image{
         width: 250px;
         height: 265px;
